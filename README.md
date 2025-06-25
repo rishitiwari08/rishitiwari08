@@ -13,7 +13,7 @@ I'm an **Automation & IT Engineering** Master's student at **Technische Hochschu
 ---
 
 ### Technical Skills  
-- **Programming:** Python, C++, JavaScript, SQL  
+- **Programming:** Python, C++, JavaScript, SQL , ROS2
 - **AI & ML:** PyTorch, TensorFlow, scikit-learn, pandas, MATLAB & Simulink  
 - **Embedded Systems:** Raspberry Pi, Arduino, UniSim, MQTT, Node-RED  
 - **Cloud & Databases:** InfluxDB, Rest API,  
