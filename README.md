@@ -20,6 +20,24 @@ I'm an **Automation & IT Engineering** Master's student at **Technische Hochschu
 - **Version Control:** Git, GitHub, GitLab  
 
 ---
+### Master Thesis – Robust RL for Wireless Industrial Robotics
+#### Title: Domain Randomization for Reinforcement Learning in Wireless Industrial Environments
+Institution: Fraunhofer IPT, Aachen, Germany
+Duration: March 2025 – Present
+
+#### Summary
+
+This thesis explores how network impairments like latency, jitter, and packet loss in wireless industrial networks impact the performance of Reinforcement Learning (RL) agents in mobile robotics.
+To improve RL agent robustness in such environments, I developed a simulation framework that:
+- Generates randomized shopfloor layouts to simulate real-world signal obstructions
+- Integrates ROS 2 with NS-3 using a custom Tap Bridge interface for live IP-level communication
+- Applies domain randomization to improve agent generalization under degraded network conditions
+- Captures real-time network metrics (latency, jitter, packet loss) for training environment fidelity
+
+#### Goal 
+To train RL agents that are robust and reliable in dynamic, communication-challenged industrial settings.
+
+---
 
 ###  Key Projects  
 #### Surrogate Modelling for Turbocharger Vibration Analysis using RNN and Random Forest  
