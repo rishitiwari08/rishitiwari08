@@ -1,14 +1,16 @@
 # 👋 Hi, I'm Rishikesh Tiwari!
 
 ###  About Me  
-I'm an **Automation & IT Engineering** Master's student at **Technische Hochschule Köln**, passionate about robotics, machine learning, and automation systems. With a strong background in **embedded systems, AI, and software development**, I enjoy solving complex problems and continuously expanding my technical expertise.
 
--  **M.Eng. in Automation & IT** (Technische Hochschule Köln)  
--  **B.Tech in Electronics & Communication** (MIT World Peace University, Pune)  
--  Interested in **Robotics, AI and Industrial Automation**  
--  Experienced in **ROS2, Python, C++, JavaScript, ML, MATLAB**  
--  Currently improving **ROS2 Navigation, AI-driven automation, and Iot systems**  
--  Passionate about **sustainable technology & smart automation**  
+I'm a **Robotics Engineer** at a **Stealth Startup**, with a background in **Automation & IT Engineering** from **Technische Hochschule Köln**.  
+My work bridges **robotics, wireless communication, and AI**, focusing on creating **intelligent, network-aware robotic systems** for industrial and real-world applications.
+
+-  **M.Eng. in Automation & IT** – Technische Hochschule Köln  
+-  **B.Tech in Electronics & Communication** – MIT World Peace University, Pune  
+-  **Interests:** Robotics, AI, Industrial Automation, and 5G/Edge Integration  
+-  **Skilled in:** ROS2, Python, C++, Machine Learning, MATLAB, and Embedded Systems  
+-  **Passionate about:** Network-aware autonomous systems and sustainable industrial automation  
+ 
 
 ---
 
@@ -20,22 +22,26 @@ I'm an **Automation & IT Engineering** Master's student at **Technische Hochschu
 - **Version Control:** Git, GitHub, GitLab  
 
 ---
-### Master Thesis – Robust RL for Wireless Industrial Robotics
-#### Title: Domain Randomization for Reinforcement Learning in Wireless Industrial Environments
-Institution: Fraunhofer IPT, Aachen, Germany
-Duration: March 2025 – Present
+---
 
-#### Summary
+### Master’s Thesis – Integration of Wireless Network Simulations into Robotics Simulation Frameworks  
+**Institution:** Fraunhofer IPT, Aachen, Germany  
+**Duration:** March 2025 – September 2025  
 
-This thesis explores how network impairments like latency, jitter, and packet loss in wireless industrial networks impact the performance of Reinforcement Learning (RL) agents in mobile robotics.
-To improve RL agent robustness in such environments, I developed a simulation framework that:
-- Generates randomized shopfloor layouts to simulate real-world signal obstructions
-- Integrates ROS 2 with NS-3 using a custom Tap Bridge interface for live IP-level communication
-- Applies domain randomization to improve agent generalization under degraded network conditions
-- Captures real-time network metrics (latency, jitter, packet loss) for training environment fidelity
+**Summary:**  
+Developed a **co-simulation framework** integrating **ROS 2 / Gazebo** for robotic dynamics with **ns-3 (5G-LENA)** for realistic wireless networking.  
+This framework enables the study of how **robot mobility interacts with wireless performance**, capturing key effects such as **latency, jitter, and handovers** in industrial environments.  
 
-#### Goal 
-To train RL agents that are robust and reliable in dynamic, communication-challenged industrial settings.
+**Key Highlights:**  
+-  Built a **TAP-bridge interface** for real-time ROS–ns3 communication  
+-  Created a **procedural world generator** for randomized industrial layouts  
+-  Mapped **coverage and latency heatmaps** across simulated shopfloors  
+-  Established a **platform for communication-aware reinforcement learning**  
+
+This research forms a foundation for **robust RL and connectivity-aware robotics**, supporting the next generation of **industrial 5G-enabled robots**.
+
+---
+
 
 ---
 
@@ -66,7 +72,3 @@ To train RL agents that are robust and reliable in dynamic, communication-challe
 -  Email: [rishikesht0808@gmail.com](mailto:rishikesht0808@gmail.com)  
 -  LinkedIn: [linkedin.com/in/rishikesh-tiwari-3b4983188](https://www.linkedin.com/in/rishikesh-tiwari-3b4983188)  
 
----
-
-###  Let's Collaborate!  
-I'm always excited to work on **robotics and AI-driven automation**. If you have an interesting project, feel free to reach out! 
